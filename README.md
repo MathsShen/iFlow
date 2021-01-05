@@ -1,2 +1,2 @@
 # iFlow
-## Identifiying through Flows for Recovering Latent Representations, ICLR2020.
+## Identifying through Flows for Recovering Latent Representations, ICLR2020.
